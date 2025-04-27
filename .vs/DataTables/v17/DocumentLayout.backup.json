@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DataTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96794FE2-9269-47BE-B724-F1439F465907}|DataTables\\DataTables.csproj|c:\\projetos\\datatables\\datatables\\script.sql||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96794FE2-9269-47BE-B724-F1439F465907}|DataTables\\DataTables.csproj|solutionrelative:datatables\\script.sql||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96794FE2-9269-47BE-B724-F1439F465907}|DataTables\\DataTables.csproj|c:\\projetos\\datatables\\datatables\\script.sql||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96794FE2-9269-47BE-B724-F1439F465907}|DataTables\\DataTables.csproj|solutionrelative:datatables\\script.sql||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96794FE2-9269-47BE-B724-F1439F465907}|DataTables\\DataTables.csproj|c:\\projetos\\datatables\\datatables\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96794FE2-9269-47BE-B724-F1439F465907}|DataTables\\DataTables.csproj|solutionrelative:datatables\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96794FE2-9269-47BE-B724-F1439F465907}|DataTables\\DataTables.csproj|c:\\projetos\\datatables\\datatables\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96794FE2-9269-47BE-B724-F1439F465907}|DataTables\\DataTables.csproj|solutionrelative:datatables\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 348,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.sql",
+              "DocumentMoniker": "C:\\Projetos\\DataTables\\DataTables\\script.sql",
+              "RelativeDocumentMoniker": "DataTables\\script.sql",
+              "ToolTip": "C:\\Projetos\\DataTables\\DataTables\\script.sql",
+              "RelativeToolTip": "DataTables\\script.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-27T22:10:26.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.sql",
+              "DocumentMoniker": "C:\\Projetos\\DataTables\\DataTables\\script.sql",
+              "RelativeDocumentMoniker": "DataTables\\script.sql",
+              "ToolTip": "C:\\Projetos\\DataTables\\DataTables\\script.sql",
+              "RelativeToolTip": "DataTables\\script.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-27T22:10:02.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\DataTables\\DataTables\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataTables\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\DataTables\\DataTables\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "DataTables\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T21:37:59.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\DataTables\\DataTables\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "DataTables\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Projetos\\DataTables\\DataTables\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "DataTables\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:37:20.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 348,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
